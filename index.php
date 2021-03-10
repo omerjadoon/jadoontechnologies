@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>FlexStart Bootstrap Template - Index</title>
-  <meta content="" name="description">
+  <title>Jadoon Technologies - Home</title>
+  <meta content="jadoontechnologies is a software company in pakistan providing high quality software developemnt services such as web development, android app development, graphic designing, data analytics" name="description">
 
-  <meta content="" name="keywords">
+  <meta content="jadoontechnologies, jadoontechnologies.com,software company, website development, wordpress developemnt" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
