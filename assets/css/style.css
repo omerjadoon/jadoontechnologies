@@ -1633,20 +1633,22 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .php-email-form input, .contact .php-email-form textarea , .contact .php-email-form select {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
   border-radius: 0;
 }
 
-.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+.contact .php-email-form input:focus, .contact .php-email-form textarea:focus , .contact .php-email-form select:focus{
   border-color: #4154f1;
 }
 
-.contact .php-email-form input {
+.contact .php-email-form input , .contact .php-email-form select{
   padding: 10px 15px;
 }
+
+
 
 .contact .php-email-form textarea {
   padding: 12px 15px;

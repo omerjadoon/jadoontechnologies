@@ -73,7 +73,7 @@
             </ul>
           </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="https://api.WhatsApp.com/send?phone=923359119460">Whatsapp</a></li>
+          <li><a class="getstarted scrollto" href="">Get Quote</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -992,7 +992,7 @@
               <div class="member-info">
                 <h4>Omer Khan Jadoon</h4>
                 <span>Chief Executive Officer</span>
-                <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -1011,7 +1011,7 @@
               <div class="member-info">
                 <h4>Mohsin Ali</h4>
                 <span>Managing Director</span>
-                <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -1029,8 +1029,8 @@
               </div>
               <div class="member-info">
                 <h4>Hamza Niaz</h4>
-                <span>CTO</span>
-                <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
+                <span>Design Lead</span>
+                <p></p>
               </div>
             </div>
           </div>
@@ -1049,7 +1049,7 @@
               <div class="member-info">
                 <h4>Atif Mehmood</h4>
                 <span>Web Lead</span>
-                <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -1150,29 +1150,32 @@
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bi bi-geo-alt"></i>
+                  
                   <h3>Address</h3>
-                  <p>A108 Adam Street,<br>New York, NY 535022</p>
+                  <p>Opposite Daewoo Adda <br>
+              Haripur, KPK 22620<br>
+              Pakistan <br></p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bi bi-telephone"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+92 335 9119460<br>+92 331 9345994</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bi bi-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>info@jadoontechnologies.com<br>jadoontechnologies@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bi bi-clock"></i>
                   <h3>Open Hours</h3>
-                  <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+                  <p>Monday - Saturday<br>9:00AM - 05:00PM PST</p>
                 </div>
               </div>
             </div>
@@ -1192,19 +1195,58 @@
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                  <select class="form-control contact" aria-label="Default select example">
+                    <option selected>Which Services are you interested in ?</option>
+                    <option value="erp">Enterprice Software Solutions</option>
+                    <option value="2">Dedicated Development Team</option>
+                    <option value="3">Mobile App Development</option>
+                    <option value="3">Web App Development</option>
+                    <option value="3">Data Services</option>
+                    <option value="3">UI/UX</option>
+                    <option value="3">DevOps</option>
+                    <option value="3">3D App Development</option>
+                    <option value="3">Quality Assurance</option>
+                    <option value="3">Partnership Opportunities</option>
+                    <option value="3">RFQ/RFP</option>
+                  </select>
+                                     
+                </div>
+                <div class="col-md-12">
+                  <select class="form-control contact" aria-label="Default select example">
+                    <option selected>Your Estimated Budget ?</option>
+                    <option value="1">$1000 - $5000</option>
+                    <option value="2">$5000 - $10,000</option>
+                    <option value="3">$10,000 - $30,000</option>
+                    <option value="3">$30,000 - $50,000</option>
+                    <option value="3">$50,000 - $100,000</option>
+                    <option value="3">$100,000 - $200,000</option>
+                    <option value="3">$200,000 - $500,000</option>
+                    <option value="3">$500,000 or above</option>
+                    <option value="3">Request Budget Guidance</option>
+                  </select>
+                                     
+                </div>
+                <div class="col-md-6">
+                  <input type="text" class="form-control" name="phone" placeholder="Phone" required>
+                </div>
+                <div class="col-md-6">
+                  <input type="text" class="form-control" name="company" placeholder="Company (Optional)" required>
                 </div>
 
                 <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                  <textarea class="form-control" name="message" rows="6" placeholder="Let us know a bit more about the project you have in mind" required></textarea>
                 </div>
+                 <div class="form-check">
+                    <input type="checkbox" class="form-control-input" id="exampleCheck1">
+                    <label class="form-control-label" for="exampleCheck1">Please send me a Non Disclosure Agreement</label>
+                  </div>
 
                 <div class="col-md-12 text-center">
                   <div class="loading">Loading</div>
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                  <button type="submit">Send Message</button>
+                  <button type="submit">Get Quote</button>
                 </div>
 
               </div>
@@ -1247,9 +1289,9 @@
               <img src="assets/img/jlogo.png" alt="">
              
             </a>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+            <p>Jadoon Technologies is one of the top software companies of Pakistan, providing high quality services in low prices.</p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="https://api.WhatsApp.com/send?phone=923359119460" class="twitter"><i class="bi bi-twitter"></i></a>
               <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
               <a href="#" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
               <a href="#" class="linkedin"><i class="bi bi-linkedin bx bxl-linkedin"></i></a>
