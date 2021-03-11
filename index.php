@@ -73,7 +73,7 @@
             </ul>
           </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#contact">Get Quote</a></li>
+          <li><a class="getstarted scrollto" href="#contact">Free Quote</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -194,7 +194,7 @@
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="52" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Happy Clients</p>
               </div>
             </div>
@@ -204,7 +204,7 @@
             <div class="count-box">
               <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
               <div>
-                <span data-purecounter-start="0" data-purecounter-end="75" data-purecounter-duration="1" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="530" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Projects</p>
               </div>
             </div>
@@ -241,8 +241,8 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Features</h2>
-          <p>Laboriosam et omnis fuga quis dolor direda fara</p>
+          <h2>Technologies</h2>
+          <p>At Jadoon Technologies, we use a number of state of art technologies to bring your idea to life</p>
         </header>
 
         <div class="row">
@@ -257,42 +257,42 @@
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Eos aspernatur rem</h3>
+                  <h3>Google Cloud</h3>
                 </div>
               </div>
 
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Facilis neque ipsa</h3>
+                  <h3>Github</h3>
                 </div>
               </div>
 
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="400">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Volup amet voluptas</h3>
+                  <h3>Docker</h3>
                 </div>
               </div>
 
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="500">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Rerum omnis sint</h3>
+                  <h3>C++ / JavaScript / PHP / C# </h3>
                 </div>
               </div>
 
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="600">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Alias possimus</h3>
+                  <h3>JAVA / Python</h3>
                 </div>
               </div>
 
               <div class="col-md-6" data-aos="zoom-out" data-aos-delay="700">
                 <div class="feature-box d-flex align-items-center">
                   <i class="bi bi-check"></i>
-                  <h3>Repellendus mollitia</h3>
+                  <h3>Photoshop / AI / XD</h3>
                 </div>
               </div>
 
@@ -304,18 +304,21 @@
         <!-- Feature Tabs -->
         <div class="row feture-tabs" data-aos="fade-up">
           <div class="col-lg-6">
-            <h3>Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
+            <h3>We at Jadoon Technologies, offers a number of products for your business</h3>
 
             <!-- Tabs -->
             <ul class="nav nav-pills mb-3">
               <li>
-                <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a>
+                <a class="nav-link active" data-bs-toggle="pill" href="#tab1">JPOS</a>
               </li>
               <li>
-                <a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a>
+                <a class="nav-link" data-bs-toggle="pill" href="#tab2">PMS</a>
               </li>
               <li>
-                <a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a>
+                <a class="nav-link" data-bs-toggle="pill" href="#tab3">Pro School</a>
+              </li>
+              <li>
+                <a class="nav-link" data-bs-toggle="pill" href="#tab4">HMS</a>
               </li>
             </ul><!-- End Tabs -->
 
@@ -323,15 +326,15 @@
             <div class="tab-content">
 
               <div class="tab-pane fade show active" id="tab1">
-                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                <p>JPOS - Point of Sale and Inventory Management System</p>
                 <div class="d-flex align-items-center mb-2">
                   <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                  <h4>What is JPOS ?</h4>
                 </div>
                 <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
                 <div class="d-flex align-items-center mb-2">
                   <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                  <h4>Major Features</h4>
                 </div>
                 <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
               </div><!-- End Tab 1 Content -->
@@ -364,6 +367,20 @@
                 <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
               </div><!-- End Tab 3 Content -->
 
+              <div class="tab-pane fade show" id="tab4">
+                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                <div class="d-flex align-items-center mb-2">
+                  <i class="bi bi-check2"></i>
+                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                </div>
+                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                <div class="d-flex align-items-center mb-2">
+                  <i class="bi bi-check2"></i>
+                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                </div>
+                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+              </div><!-- End Tab 3 Content -->
+
             </div>
 
           </div>
@@ -376,7 +393,7 @@
 
         <!-- Feature Icons -->
         <div class="row feature-icons" data-aos="fade-up">
-          <h3>Ratione mollitia eos ab laudantium rerum beatae quo</h3>
+          <h3>Why Choose Us?</h3>
 
           <div class="row">
 
@@ -506,7 +523,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="service-box pink">
               <i class="ri-discuss-line icon"></i>
-              <h3>Dolori Architecto</h3>
+              <h3>Digital Marketing / SEO</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -618,12 +635,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
-                    Where are you based?
+                    What is Jadoon Technologies all about?
                   </button>
                 </h2>
                 <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
                   <div class="accordion-body">
-                    We are working from a beautiful city of Pakistan i.e Haripur
+                    Since 2018, Jadoon Technologies has focused on developing and maintaining custom software solutions for small enterprises to big conglomerates. With increased efficiency, we established a diversified client base across the globe – we worked with 100+ companies, 100+ happy clients, and delivered 500+ projects. 95% of our business patrons return for a second engagement. 
                   </div>
                 </div>
               </div>
@@ -631,12 +648,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
-                    Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                    How you stand out the market competition?
                   </button>
                 </h2>
                 <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
                   <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                   Our professional integrity, solid work ethics, and take-a-dare aptitude raises us above our peers. Our friendly, candid, and professional team of IT, business and marketing experts take collective responsibility of every single venture. We have capability to consistently provide IT products and services that meet clients and regulatory requirements. We are adding good-paying IT jobs to our local community.
                   </div>
                 </div>
               </div>
@@ -644,12 +661,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                    What is the timeline to start a new project?
                   </button>
                 </h2>
                 <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist1">
                   <div class="accordion-body">
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                    It all depends on project nature and scope of work. However, usually, the pre-project evaluation and documentation take 3-4 working days. Our design and planning phase takes 2-3 weeks. We initiate development after that.
                   </div>
                 </div>
               </div>
@@ -665,12 +682,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
-                    Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                    Do you provide post-development support?
                   </button>
                 </h2>
                 <div id="faq2-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                   <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    Yes, we engage our dedicated software engineers to keep your product in shape. We quickly respond to clients’ needs, address their concerns about bug-tracking and fixing. Moreover, we provide ongoing support for our designed software solutions based on product license. We also handle proposed feature enhancements and developments.
                   </div>
                 </div>
               </div>
@@ -678,12 +695,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-2">
-                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                    Do you outsource IT Services?
                   </button>
                 </h2>
                 <div id="faq2-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                   <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                    Yes, we do. You can hire our dedicated resources who will work only for you. You can engage an individual or the entire team on hourly, part-time or full-time contract basis whatever suits you.
                   </div>
                 </div>
               </div>
@@ -691,12 +708,12 @@
               <div class="accordion-item">
                 <h2 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-3">
-                    Varius vel pharetra vel turpis nunc eget lorem dolor?
+                    What is the typical team size?
                   </button>
                 </h2>
                 <div id="faq2-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                   <div class="accordion-body">
-                    Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                    For each project, typical team size is 2-3 developers depending on the project scope, workload and timeline for deliverables. Each development team is supported by UI/UX designers, QA engineers, project coordinators, and more developers if required. These sharing support resources for each project helps us accelerate the completion process with reduced costs for the clients.
                   </div>
                 </div>
               </div>
@@ -932,12 +949,12 @@
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  I am highly satisfied with the quality of work done by Jadoon Technologies. I appreciate their quality of service and professional behaviour. Highly Recommended!
                 </p>
                 <div class="profile mt-auto">
                   <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+                  <h3>Naveed</h3>
+                  <h4>Founder, DealMart</h4>
                 </div>
               </div>
             </div><!-- End testimonial item -->
@@ -1214,6 +1231,7 @@
                 <div class="col-md-12">
                   <select class="form-control contact" aria-label="Default select example">
                     <option selected>Your Estimated Budget ?</option>
+                    <option value="1">Below $1000</option>
                     <option value="1">$1000 - $5000</option>
                     <option value="2">$5000 - $10,000</option>
                     <option value="3">$10,000 - $30,000</option>
@@ -1314,8 +1332,8 @@
             <ul>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Mobile App Development</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#">Digital Marketing</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
           </div>
