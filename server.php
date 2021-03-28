@@ -26,7 +26,7 @@ $mail             = new PHPMailer();
 
 $mail->IsSMTP(); // telling the class to use SMTP
 
-$mail->SMTPDebug  = 1;                     // enables SMTP debug information (for testing)
+$mail->SMTPDebug  = 0;                     // enables SMTP debug information (for testing)
                                            // 1 = errors and messages
                                            // 2 = messages only
 $mail->SMTPAuth   = true;                  // enable SMTP authentication
@@ -34,7 +34,7 @@ $mail->SMTPSecure = "tls";
 $mail->Host       = "smtp.gmail.com";      // SMTP server
 $mail->Port       = 587;                   // SMTP port
 $mail->Username   = "omerkhanjadoons@gmail.com";  // username
-$mail->Password   = "babag11223";            // password
+$mail->Password   = "";            // password
 
 $mail->SetFrom('omerkhanjadoons@gmail.com', $name);
 
