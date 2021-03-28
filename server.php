@@ -34,7 +34,7 @@ $mail->SMTPSecure = "tls";
 $mail->Host       = "smtp.gmail.com";      // SMTP server
 $mail->Port       = 587;                   // SMTP port
 $mail->Username   = "omerkhanjadoons@gmail.com";  // username
-$mail->Password   = "";            // password
+$mail->Password   = "babag11223";            // password
 
 $mail->SetFrom('omerkhanjadoons@gmail.com', $name);
 
