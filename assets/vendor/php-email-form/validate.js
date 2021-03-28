@@ -58,7 +58,7 @@
     .then(response => {
       console.log(response);
        if (response.status == 200) {
-        return response
+        return response.text
       } else {
         throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
       }
