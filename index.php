@@ -742,8 +742,9 @@
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-card">Web</li>
+              <li data-filter=".filter-web">Graphics</li>
+              <li data-filter=".filter-web">IOT</li>
             </ul>
           </div>
         </div>
@@ -754,7 +755,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
+                <h4>G Janab Services</h4>
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
@@ -782,7 +783,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
+                <h4>Deal Mart</h4>
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
@@ -1200,7 +1201,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form">
+            <form action="server.php" method="post" class="php-email-form">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -1212,25 +1213,27 @@
                 </div>
 
                 <div class="col-md-12">
-                  <select class="form-control contact" aria-label="Default select example">
-                    <option selected>Which Services are you interested in ?</option>
-                    <option value="erp">Enterprice Software Solutions</option>
-                    <option value="2">Dedicated Development Team</option>
-                    <option value="3">Mobile App Development</option>
-                    <option value="3">Web App Development</option>
-                    <option value="3">Data Services</option>
-                    <option value="3">UI/UX</option>
-                    <option value="3">DevOps</option>
-                    <option value="3">3D App Development</option>
-                    <option value="3">Quality Assurance</option>
-                    <option value="3">Partnership Opportunities</option>
-                    <option value="3">RFQ/RFP</option>
+                  <select class="form-control contact" name="service" aria-label="Default select example">
+                    <option disabled selected>Which Services are you interested in ?</option>
+                    <option value="Enterprice Software Solutions">Enterprice Software Solutions</option>
+                     <option value="Point of Sale Solutions">Point of Sale Solutions</option>
+                    <option value="Brand Identity/ Logo Design">Brand Identity/ Logo Design</option>
+                    <option value="mobile app developemnt">Mobile App Development</option>
+                    <option value="Web App Development">Web App Development</option>
+                    <option value="Data Services">Data Services</option>
+                    <option value="UI/UX">UI/UX</option>
+                    <option value="DevOps">DevOps</option>
+                    <option value="3D App Development">3D App Development</option>
+                    <option value="Quality Assurance">Quality Assurance</option>
+                    <option value="Partnership Opportunities">Partnership Opportunities</option>
+                    <option value="RFQ/RFP">RFQ/RFP</option>
+                    <option value="Other">Other</option>
                   </select>
                                      
                 </div>
                 <div class="col-md-12">
-                  <select class="form-control contact" aria-label="Default select example">
-                    <option selected>Your Estimated Budget ?</option>
+                  <select class="form-control contact" name="estimate" aria-label="Default select example">
+                    <option disabled selected>Your Estimated Budget ?</option>
                     <option value="1">Below $1000</option>
                     <option value="1">$1000 - $5000</option>
                     <option value="2">$5000 - $10,000</option>
@@ -1248,14 +1251,14 @@
                   <input type="text" class="form-control" name="phone" placeholder="Phone" required>
                 </div>
                 <div class="col-md-6">
-                  <input type="text" class="form-control" name="company" placeholder="Company (Optional)" required>
+                  <input type="text" class="form-control" name="country" placeholder="Country/City (Optional)" required>
                 </div>
 
                 <div class="col-md-12">
                   <textarea class="form-control" name="message" rows="6" placeholder="Let us know a bit more about the project you have in mind" required></textarea>
                 </div>
                  <div class="form-check">
-                    <input type="checkbox" class="form-control-input" id="exampleCheck1">
+                    <input type="checkbox" name="nda" class="form-control-input" id="exampleCheck1">
                     <label class="form-control-label" for="exampleCheck1">Please send me a Non Disclosure Agreement</label>
                   </div>
 
