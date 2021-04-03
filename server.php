@@ -40,7 +40,7 @@ $mail->SetFrom('omerkhanjadoons@gmail.com', $name);
 
 $mail->Subject    = "Quotation Request From Client";
 
-$mail->MsgHTML('Blah');
+$mail->MsgHTML('Name'.$name.'<br> email'.$email.'phone'.$phone.'service'.$service.'estimate'.$estimate.'country'.$country.'message'.$message.'nda'.$nda);
 
 $address = "omerjadoon1@gmail.com";
 $mail->AddAddress($address, "Jadoon Technologies");
