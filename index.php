@@ -14,8 +14,7 @@
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -759,7 +758,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="https://play.google.com/store/apps/details?id=com.jadoontechnologies.gjanabdeliveryservice" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -773,7 +772,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="http://www.grandbachat.com" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -787,7 +786,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="https://play.google.com/store/apps/details?id=jadoontechnologies.dealmart" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -815,7 +814,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="https://aussiechillout.com.au/" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -871,7 +870,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="https://citywidedjservices.com.au/" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -1312,10 +1311,11 @@
             </a>
             <p>Jadoon Technologies is one of the top software companies of Pakistan, providing high quality services in low prices.</p>
             <div class="social-links mt-3">
-              <a href="https://api.WhatsApp.com/send?phone=923359119460" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin bx bxl-linkedin"></i></a>
+              <a href="https://twitter.com/jadoontechnolgs" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="https://www.facebook.com/jadoontechnologies" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.instagram.com/jadoontechnologies" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
+              <a href="https://pk.linkedin.com/company/jadoontechnologies" class="linkedin"><i class="bi bi-linkedin bx bxl-linkedin"></i></a>
+              <a href="https://api.WhatsApp.com/send?phone=923359119460" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
             </div>
           </div>
 
@@ -1361,18 +1361,13 @@
       <div class="copyright">
         &copy; Copyright 2021 - <strong><span>Jadoon Technologies</span></strong>. All Rights Reserved
       </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ -->
-        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
-      </div>
+     
     </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
+<!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
